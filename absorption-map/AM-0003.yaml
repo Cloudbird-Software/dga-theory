@@ -1,0 +1,16 @@
+# absorption-map 条目（IR-0009 卡 A2；schema=IR-0007 §5；ADR-0107 层级声明）
+id: "AM-0003"
+实施层:
+  source: "宪法"
+  anchor: "§1 层表"
+  quote: "GitHub 组织即工厂……七层仓即职责"
+  条目摘要: "组织结构以仓为职责单元"
+理论层:
+  source: "STRAT"
+  anchor: "§2.1 五层架构采样"
+映射关系: "同构"
+参数差异: null
+冲突裁决: null
+证据: 
+  - "REPOS.yaml layers L0-L3"
+状态: "mapped"

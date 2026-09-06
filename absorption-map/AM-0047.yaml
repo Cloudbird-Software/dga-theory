@@ -1,0 +1,16 @@
+# absorption-map 条目（IR-0009 卡 A2；schema=IR-0007 §5；ADR-0107 层级声明）
+id: "AM-0047"
+实施层:
+  source: "metrics.yaml"
+  anchor: "决策 7"
+  quote: "数据源未落的指标一律声明 pending，dashboard 显示 pending 不显示 0"
+  条目摘要: "未测声明义务的仪表化"
+理论层:
+  source: "DGA-A"
+  anchor: "§A-50 未测声明"
+映射关系: "同构"
+参数差异: null
+冲突裁决: null
+证据: 
+  - "ADR-0073 决策 7"
+状态: "mapped"

@@ -1,0 +1,16 @@
+# absorption-map 条目（IR-0009 卡 A2；schema=IR-0007 §5；ADR-0107 层级声明）
+id: "AM-0038"
+实施层:
+  source: "宪法"
+  anchor: "§14c"
+  quote: "凡不能写进 Git 声明的就不能被输出（铁律）"
+  条目摘要: "显性知识的声明面强制"
+理论层:
+  source: "DGA-A"
+  anchor: "§A-04 + §A-31 跨梯度禁读"
+映射关系: "同构"
+参数差异: null
+冲突裁决: null
+证据: 
+  - "ADR-0103 决策 6（总纲收编先例）"
+状态: "mapped"

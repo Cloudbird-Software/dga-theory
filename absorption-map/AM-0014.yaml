@@ -1,0 +1,16 @@
+# absorption-map 条目（IR-0009 卡 A2；schema=IR-0007 §5；ADR-0107 层级声明）
+id: "AM-0014"
+实施层:
+  source: "宪法"
+  anchor: "§4E 域二"
+  quote: "治理自洽性验证（检查的机制本身仍可信）"
+  条目摘要: "元治理：验证之验证"
+理论层:
+  source: "DGA"
+  anchor: "§2.4 度量与自检协议"
+映射关系: "同构"
+参数差异: null
+冲突裁决: null
+证据: 
+  - "governance/metagov.py 四列对账"
+状态: "mapped"

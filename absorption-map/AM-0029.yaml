@@ -1,0 +1,16 @@
+# absorption-map 条目（IR-0009 卡 A2；schema=IR-0007 §5；ADR-0107 层级声明）
+id: "AM-0029"
+实施层:
+  source: "宪法"
+  anchor: "§12"
+  quote: "真相源唯一 = issue label；一切视图都是投影，投影与 label 漂移时以 label 为准并报警"
+  条目摘要: "状态投影的单向性与漂移告警"
+理论层:
+  source: "DGA"
+  anchor: "§5.8 单向信息梯度"
+映射关系: "同构"
+参数差异: null
+冲突裁决: null
+证据: 
+  - "board-sync.py + feishu-sync 纠正实测"
+状态: "mapped"

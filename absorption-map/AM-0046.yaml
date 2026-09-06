@@ -1,0 +1,16 @@
+# absorption-map 条目（IR-0009 卡 A2；schema=IR-0007 §5；ADR-0107 层级声明）
+id: "AM-0046"
+实施层:
+  source: "arbiter"
+  anchor: "capabilities.yaml"
+  quote: "默认拒绝：capabilities.yaml 无匹配规则 = deny（不是 abstain/error）"
+  条目摘要: "未注册操作不存在"
+理论层:
+  source: "DGA-A"
+  anchor: "§11 N-6 + §A-71"
+映射关系: "同构"
+参数差异: null
+冲突裁决: null
+证据: 
+  - "tests/test_policy.py"
+状态: "mapped"

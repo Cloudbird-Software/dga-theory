@@ -1,0 +1,16 @@
+# absorption-map 条目（IR-0009 卡 A2；schema=IR-0007 §5；ADR-0107 层级声明）
+id: "AM-0052"
+实施层:
+  source: "ADR-0104"
+  anchor: "LLM 供应商切换"
+  quote: "LLM 供应商切换——StepFun Step Plan 与计量层 provider 适配"
+  条目摘要: "端点池漂移事件的实例处置"
+理论层:
+  source: "STRAT"
+  anchor: "§3.3 池组成即漂移源"
+映射关系: "同构"
+参数差异: null
+冲突裁决: null
+证据: 
+  - "eval-gate 非劣性四族判定"
+状态: "mapped"

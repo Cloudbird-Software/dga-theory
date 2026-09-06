@@ -1,0 +1,16 @@
+# absorption-map 条目（IR-0009 卡 A2；schema=IR-0007 §5；ADR-0107 层级声明）
+id: "AM-0030"
+实施层:
+  source: "宪法"
+  anchor: "§13"
+  quote: "公司内核 = harness 群……组织未来的对外形态 = FDE 工程师赴客户现场做集成与交付"
+  条目摘要: "业务形态假设（harness/FDE vs 判定服务）"
+理论层:
+  source: "STRAT"
+  anchor: "§1.1 三重身份 + §6 产品阶梯"
+映射关系: "部分"
+参数差异: null
+冲突裁决: null
+证据: 
+  - "两套下注并行，月度理论审议材料"
+状态: "mapped"

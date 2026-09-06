@@ -1,0 +1,16 @@
+# absorption-map 条目（IR-0009 卡 A2；schema=IR-0007 §5；ADR-0107 层级声明）
+id: "AM-0009"
+实施层:
+  source: "宪法"
+  anchor: "§4A 棘轮"
+  quote: "全仓指标只许变好（baseline.json，仅 CI bot 可写，放宽须人类批准）"
+  条目摘要: "治理指标单调性"
+理论层:
+  source: "（无）"
+  anchor: "—"
+映射关系: "flag-理论缺"
+参数差异: null
+冲突裁决: null
+证据: 
+  - "quality contract baseline 现制"
+状态: "mapped"

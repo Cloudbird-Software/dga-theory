@@ -1,0 +1,16 @@
+# absorption-map 条目（IR-0009 卡 A2；schema=IR-0007 §5；ADR-0107 层级声明）
+id: "AM-0012"
+实施层:
+  source: "providers.yaml"
+  anchor: "llm-verifier note"
+  quote: "判定链唯一 LLM 通道；NPC 无 logprobs 永不做判定（ADR-0082）"
+  条目摘要: "置信度是数据不是结论；无置信输出不判定"
+理论层:
+  source: "DGA-A"
+  anchor: "§A-53 置信度是数据不是结论"
+映射关系: "同构"
+参数差异: null
+冲突裁决: null
+证据: 
+  - "ADR-0082 redteam-gate"
+状态: "mapped"

@@ -1,0 +1,16 @@
+# absorption-map 条目（IR-0009 卡 A2；schema=IR-0007 §5；ADR-0107 层级声明）
+id: "AM-0004"
+实施层:
+  source: "宪法"
+  anchor: "§1 拆家原则"
+  quote: "仲裁内核独立于管家（消掉被审计者组装审计报告的结构性冲突）"
+  条目摘要: "判定者与被判定者写权分离"
+理论层:
+  source: "DGA-A"
+  anchor: "§A-60 判定与执行分离"
+映射关系: "同构"
+参数差异: null
+冲突裁决: null
+证据: 
+  - "arbiter 仓 README 不变量表"
+状态: "mapped"

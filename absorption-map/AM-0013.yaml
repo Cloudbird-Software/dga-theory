@@ -1,0 +1,16 @@
+# absorption-map 条目（IR-0009 卡 A2；schema=IR-0007 §5；ADR-0107 层级声明）
+id: "AM-0013"
+实施层:
+  source: "宪法"
+  anchor: "§4D"
+  quote: "CLAUDE.md ≤100 行、AGENTS.md ≤30 行索引型；可判定规则禁止出现在此层"
+  条目摘要: "上下文是被设计的：显性知识纪律"
+理论层:
+  source: "DGA-A"
+  anchor: "§A-04 只消费显性知识"
+映射关系: "同构"
+参数差异: null
+冲突裁决: null
+证据: 
+  - "drift-check §17 协议块对账"
+状态: "mapped"

@@ -1,0 +1,16 @@
+# absorption-map 条目（IR-0009 卡 A2；schema=IR-0007 §5；ADR-0107 层级声明）
+id: "AM-0031"
+实施层:
+  source: "宪法"
+  anchor: "§13 推论二"
+  quote: "事件 JSONL、golden 集、校准集、红队报告……是训练与评估飞轮的原料，属战略资产"
+  条目摘要: "产出的资产价值=可判定性"
+理论层:
+  source: "DGA"
+  anchor: "§4.6 资产形态"
+映射关系: "同构"
+参数差异: null
+冲突裁决: null
+证据: 
+  - "archive 仓 README 宪法 §13 节录"
+状态: "mapped"

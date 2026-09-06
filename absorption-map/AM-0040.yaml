@@ -1,0 +1,16 @@
+# absorption-map 条目（IR-0009 卡 A2；schema=IR-0007 §5；ADR-0107 层级声明）
+id: "AM-0040"
+实施层:
+  source: "ADR-0019"
+  anchor: "DECISION-02"
+  quote: "本仓 public……隔离不靠保密，靠违规读取可检测"
+  条目摘要: "威胁模型分层：检测式 vs 保密式"
+理论层:
+  source: "DGA"
+  anchor: "§4.3 其二·附（v1.1 待应用，P-1）"
+映射关系: "冲突已裁决"
+参数差异: null
+冲突裁决: "ADJUDICATION §11（理论吸收）"
+证据: 
+  - "holdout README markers 公开设计理由"
+状态: "mapped"

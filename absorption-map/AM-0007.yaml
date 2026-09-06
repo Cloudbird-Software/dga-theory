@@ -1,0 +1,16 @@
+# absorption-map 条目（IR-0009 卡 A2；schema=IR-0007 §5；ADR-0107 层级声明）
+id: "AM-0007"
+实施层:
+  source: "宪法"
+  anchor: "§3 Bug 流"
+  quote: "三值判定 {复现/证伪/不可判定}；证伪不 close 只打 cannot-reproduce"
+  条目摘要: "失败语义显式三值化"
+理论层:
+  source: "DGA-A"
+  anchor: "§A-24 无声明失败语义停机"
+映射关系: "更严"
+参数差异: null
+冲突裁决: null
+证据: 
+  - "ADR-0064 bug-pipeline-env-gate-tri-verdict"
+状态: "mapped"

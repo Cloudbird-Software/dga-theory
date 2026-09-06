@@ -1,0 +1,16 @@
+# absorption-map 条目（IR-0009 卡 A2；schema=IR-0007 §5；ADR-0107 层级声明）
+id: "AM-0006"
+实施层:
+  source: "宪法"
+  anchor: "§3"
+  quote: "Feature 流：IR→spec→红队→波次/卡→测试先行→实现→对抗→verdict→信任门→合并"
+  条目摘要: "意图到合并的全程闭环流水线"
+理论层:
+  source: "DGA"
+  anchor: "§2.1 闭环六元组 + §2.3 先决条件"
+映射关系: "同构"
+参数差异: null
+冲突裁决: null
+证据: 
+  - "transitions.yaml T1-T9"
+状态: "mapped"

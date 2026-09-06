@@ -1,0 +1,16 @@
+# absorption-map 条目（IR-0009 卡 A2；schema=IR-0007 §5；ADR-0107 层级声明）
+id: "AM-0036"
+实施层:
+  source: "宪法"
+  anchor: "§14c"
+  quote: "三面分离：声明面（Git）/执行面（多域）/判定面（恒定 GitHub CI）"
+  条目摘要: "执行外购+判定内化的组织边界"
+理论层:
+  source: "DGA"
+  anchor: "§3.6 组织边界 + §5.8 单向梯度"
+映射关系: "同构"
+参数差异: null
+冲突裁决: null
+证据: 
+  - "env-defs 仓三面分Sheet"
+状态: "mapped"

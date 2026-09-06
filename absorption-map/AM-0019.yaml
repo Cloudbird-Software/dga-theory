@@ -1,0 +1,16 @@
+# absorption-map 条目（IR-0009 卡 A2；schema=IR-0007 §5；ADR-0107 层级声明）
+id: "AM-0019"
+实施层:
+  source: "宪法"
+  anchor: "§7"
+  quote: "抽样由 owner 从原始事件日志独立复算（不用管家组装的包）"
+  条目摘要: "反退化：人审者不得被叙述喂养"
+理论层:
+  source: "（无）"
+  anchor: "—"
+映射关系: "flag-理论缺"
+参数差异: null
+冲突裁决: null
+证据: 
+  - "宪法 §7 五触点表"
+状态: "mapped"

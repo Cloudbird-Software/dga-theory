@@ -1,0 +1,16 @@
+# absorption-map 条目（IR-0009 卡 A2；schema=IR-0007 §5；ADR-0107 层级声明）
+id: "AM-0045"
+实施层:
+  source: "policy/contracts"
+  anchor: "CI-5"
+  quote: "契约兼容性检测门：OpenAPI/JSON Schema breaking 变更须 ADR 引用"
+  条目摘要: "契约层与实现层分离的执法"
+理论层:
+  source: "STRAT"
+  anchor: "§5.1 规格分层（契约层语义化版本）"
+映射关系: "同构"
+参数差异: null
+冲突裁决: null
+证据: 
+  - "ADR-0038 contract-compatibility-gate"
+状态: "mapped"

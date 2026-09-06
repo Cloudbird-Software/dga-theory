@@ -1,0 +1,17 @@
+# absorption-map 条目（IR-0009 卡 A2；schema=IR-0007 §5；ADR-0107 层级声明）
+id: "AM-0010"
+实施层:
+  source: "宪法"
+  anchor: "§4B"
+  quote: "每周向随机 PR 注入已知缺陷，演习关卡与 holdout 是否真会变红（唯一的活体证明）"
+  条目摘要: "判定体系自身活性自检"
+理论层:
+  source: "DGA"
+  anchor: "§4.3 其四（v1.1 待应用，补丁单 P-2）"
+映射关系: "冲突已裁决"
+参数差异: null
+冲突裁决: "ADJUDICATION §11（理论吸收）"
+证据: 
+  - "metrics.yaml drill_red_rate 护栏"
+  - "governance/drill/history.jsonl"
+状态: "mapped"

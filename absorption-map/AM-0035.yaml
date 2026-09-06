@@ -1,0 +1,16 @@
+# absorption-map 条目（IR-0009 卡 A2；schema=IR-0007 §5；ADR-0107 层级声明）
+id: "AM-0035"
+实施层:
+  source: "宪法"
+  anchor: "§14b"
+  quote: "Wave ≡ card issue + wave-plan.md（词汇归并）"
+  条目摘要: "波次=闭环批次"
+理论层:
+  source: "MIG"
+  anchor: "§2.1 波次总表（v1.1 方法论备忘）"
+映射关系: "同构"
+参数差异: null
+冲突裁决: null
+证据: 
+  - "VOCABULARY #10"
+状态: "mapped"

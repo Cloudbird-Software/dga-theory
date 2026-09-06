@@ -1,0 +1,16 @@
+# absorption-map 条目（IR-0009 卡 A2；schema=IR-0007 §5；ADR-0107 层级声明）
+id: "AM-0008"
+实施层:
+  source: "宪法"
+  anchor: "§4A"
+  quote: "T1 可度量 → 确定性关卡全景（永远优先）"
+  条目摘要: "判定优先机械可判定层"
+理论层:
+  source: "STRAT"
+  anchor: "§5.2 评估三层 + §5.3 三重度量"
+映射关系: "部分"
+参数差异: null
+冲突裁决: null
+证据: 
+  - "CI-Workflows 20+ workflows"
+状态: "mapped"

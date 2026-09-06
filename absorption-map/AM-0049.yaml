@@ -1,0 +1,16 @@
+# absorption-map 条目（IR-0009 卡 A2；schema=IR-0007 §5；ADR-0107 层级声明）
+id: "AM-0049"
+实施层:
+  source: "ADR-0065"
+  anchor: "patrol"
+  quote: "场景三源（AC 注册表派生/历史逃逸模式攻击语法/LLM 前沿探索+metamorphic）"
+  条目摘要: "扫描闭环的 S4 形态"
+理论层:
+  source: "STRAT"
+  anchor: "§7.5 四类扫描"
+映射关系: "部分"
+参数差异: null
+冲突裁决: null
+证据: 
+  - "生态/方法扫描资产化=C2 前沿快照"
+状态: "mapped"

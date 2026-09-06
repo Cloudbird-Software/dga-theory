@@ -1,0 +1,16 @@
+# absorption-map 条目（IR-0009 卡 A2；schema=IR-0007 §5；ADR-0107 层级声明）
+id: "AM-0034"
+实施层:
+  source: "宪法"
+  anchor: "§14a"
+  quote: "payload 内联上限 4KB，超限拒写"
+  条目摘要: "轨迹层指针纪律"
+理论层:
+  source: "DGA-A"
+  anchor: "§A-50 可判结构（证据清单与位置）"
+映射关系: "更严"
+参数差异: null
+冲突裁决: null
+证据: 
+  - "blob-store.sh retention 只增不减"
+状态: "mapped"

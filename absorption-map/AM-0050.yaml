@@ -1,0 +1,16 @@
+# absorption-map 条目（IR-0009 卡 A2；schema=IR-0007 §5；ADR-0107 层级声明）
+id: "AM-0050"
+实施层:
+  source: "ADR-0071"
+  anchor: "硬谓词信任门"
+  quote: "硬谓词白名单（fail-closed）+ 常设 shadow 模式（替代 risk-score 标量）"
+  条目摘要: "裁决不参数化：谓词白名单"
+理论层:
+  source: "DGA"
+  anchor: "§2.3 自治级别声明"
+映射关系: "同构"
+参数差异: null
+冲突裁决: null
+证据: 
+  - "W5-C2 信任门落地"
+状态: "mapped"

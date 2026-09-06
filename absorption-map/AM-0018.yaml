@@ -1,0 +1,17 @@
+# absorption-map 条目（IR-0009 卡 A2；schema=IR-0007 §5；ADR-0107 层级声明）
+id: "AM-0018"
+实施层:
+  source: "宪法"
+  anchor: "§6"
+  quote: "外部 dead-man 心跳：全部 cron 挂外部心跳监控，管家 cron 静默 = 全系统降级"
+  条目摘要: "缺席的缺席检测（外部时钟）"
+理论层:
+  source: "（无）"
+  anchor: "—"
+映射关系: "flag-理论缺"
+参数差异: null
+冲突裁决: null
+证据: 
+  - "butler-heartbeat-watch.yml"
+  - "ADR-0106"
+状态: "mapped"

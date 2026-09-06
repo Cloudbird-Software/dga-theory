@@ -1,0 +1,17 @@
+# absorption-map 条目（IR-0009 卡 A2；schema=IR-0007 §5；ADR-0107 层级声明）
+id: "AM-0025"
+实施层:
+  source: "宪法"
+  anchor: "§10.1"
+  quote: "供应商单点：GitHub = 计算+存储+身份+事件总线+人机界面；接受残余"
+  条目摘要: "单点风险与灾备缺口的诚实登记"
+理论层:
+  source: "STRAT"
+  anchor: "§4.3 灾备策略"
+映射关系: "冲突已裁决"
+参数差异: null
+冲突裁决: "ADJUDICATION §4（FR-03：CNB+Gitee 双镜像，残余收窄）"
+证据: 
+  - "ADR-0109"
+  - "IR-0010"
+状态: "mapped"

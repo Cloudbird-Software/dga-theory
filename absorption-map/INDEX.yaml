@@ -1,0 +1,31 @@
+# absorption-map INDEX（IR-0009 卡 A2）——覆盖度矩阵与 flag 分流
+version: 1
+generated_at: "2026-09-06"
+schema: "IR-0007 §5"
+source_adr: "ADR-0107"
+note: "DGA 人类版 v1.0.1 原文缺件——理论层锚点中 v1.1 新条款（其四/其二·附）以（v1.1 待应用）标注，原文到位后回链校对"
+coverage:
+  宪法 §0-§14 全部章节非空: true
+  by_source:
+    "ADR-0019": {entries: 1, 同构: 0, 更严: 0, 部分: 0, 冲突已裁决: 1, 采样偏离: 0, flag-理论缺: 0}
+    "ADR-0020": {entries: 1, 同构: 0, 更严: 0, 部分: 0, 冲突已裁决: 1, 采样偏离: 0, flag-理论缺: 0}
+    "ADR-0065": {entries: 1, 同构: 0, 更严: 0, 部分: 1, 冲突已裁决: 0, 采样偏离: 0, flag-理论缺: 0}
+    "ADR-0071": {entries: 1, 同构: 1, 更严: 0, 部分: 0, 冲突已裁决: 0, 采样偏离: 0, flag-理论缺: 0}
+    "ADR-0096": {entries: 1, 同构: 0, 更严: 0, 部分: 0, 冲突已裁决: 0, 采样偏离: 1, flag-理论缺: 0}
+    "ADR-0104": {entries: 1, 同构: 1, 更严: 0, 部分: 0, 冲突已裁决: 0, 采样偏离: 0, flag-理论缺: 0}
+    "DECISION-02": {entries: 1, 同构: 1, 更严: 0, 部分: 0, 冲突已裁决: 0, 采样偏离: 0, flag-理论缺: 0}
+    "GOVERNANCE": {entries: 3, 同构: 3, 更严: 0, 部分: 0, 冲突已裁决: 0, 采样偏离: 0, flag-理论缺: 0}
+    "arbiter": {entries: 1, 同构: 1, 更严: 0, 部分: 0, 冲突已裁决: 0, 采样偏离: 0, flag-理论缺: 0}
+    "conformance": {entries: 1, 同构: 1, 更严: 0, 部分: 0, 冲突已裁决: 0, 采样偏离: 0, flag-理论缺: 0}
+    "metrics.yaml": {entries: 1, 同构: 1, 更严: 0, 部分: 0, 冲突已裁决: 0, 采样偏离: 0, flag-理论缺: 0}
+    "policy/contracts": {entries: 1, 同构: 1, 更严: 0, 部分: 0, 冲突已裁决: 0, 采样偏离: 0, flag-理论缺: 0}
+    "providers.yaml": {entries: 1, 同构: 1, 更严: 0, 部分: 0, 冲突已裁决: 0, 采样偏离: 0, flag-理论缺: 0}
+    "宪法": {entries: 37, 同构: 26, 更严: 3, 部分: 3, 冲突已裁决: 2, 采样偏离: 0, flag-理论缺: 3}
+  by_tier: {"Tier1 宪法 §0-§14 及其延伸条款": 39, "Tier2 GOVERNANCE/INV/DECISION": 8, "Tier3 policy/contracts": 1, "Tier4 ADR 抽样": 4}
+flag_splitting:
+  flag-实例缺: []   # 本批 0 条（负结果库/前沿快照/时代性已入 IR-0009 卡 C1/C2/C3，见 VOCABULARY 分流）
+  flag-理论缺:
+    - "AM-0009 棘轮（治理指标单调性）"
+    - "AM-0018 外部 dead-man 心跳"
+    - "AM-0019 反退化设计（owner 独立复算/每周亲手一件）"
+owner_spot_check: "pending（门禁对抗一：抽 5 条 owner 核验——S 点外待办，随收口送审）"

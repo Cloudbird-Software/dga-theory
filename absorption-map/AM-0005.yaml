@@ -1,0 +1,16 @@
+# absorption-map 条目（IR-0009 卡 A2；schema=IR-0007 §5；ADR-0107 层级声明）
+id: "AM-0005"
+实施层:
+  source: "宪法"
+  anchor: "§2"
+  quote: "holdout/golden 集补给 | owner 月度职责（结构上不可交给 agent）"
+  条目摘要: "运动员不可写考卷"
+理论层:
+  source: "STRAT"
+  anchor: "§2.2 S5 独占决策清单"
+映射关系: "同构"
+参数差异: null
+冲突裁决: null
+证据: 
+  - "holdout README owner 月度补给节"
+状态: "mapped"

@@ -1,0 +1,17 @@
+# absorption-map 条目（IR-0009 卡 A2；schema=IR-0007 §5；ADR-0107 层级声明）
+id: "AM-0039"
+实施层:
+  source: "ADR-0020"
+  anchor: "决策 1"
+  quote: "全仓公开政策：组织下一切仓库必须 public。无豁免路径"
+  条目摘要: "公开策略 vs 判定资产永不出域"
+理论层:
+  source: "STRAT"
+  anchor: "§4.1 三区 + §5.4 许可证矩阵"
+映射关系: "冲突已裁决"
+参数差异: null
+冲突裁决: "ADJUDICATION §2（FR-01 三阵地：考卷公开答案密封）"
+证据: 
+  - "GitHub ToS D.4 训练权证据"
+  - "ADR-0108 proposed"
+状态: "mapped"

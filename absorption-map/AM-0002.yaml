@@ -1,0 +1,16 @@
+# absorption-map 条目（IR-0009 卡 A2；schema=IR-0007 §5；ADR-0107 层级声明）
+id: "AM-0002"
+实施层:
+  source: "宪法"
+  anchor: "§0"
+  quote: "LLM 只做生成、veto 与叙述，永无合并权、approve 权、授权裁决权"
+  条目摘要: "LLM 永不承载判定终审"
+理论层:
+  source: "DGA-A"
+  anchor: "§11 N-2（责任永远归于具名的人）"
+映射关系: "更严"
+参数差异: null
+冲突裁决: null
+证据: 
+  - "GOVERNANCE CI-3（Actions 不许批准 PR）"
+状态: "mapped"

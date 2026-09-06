@@ -1,0 +1,17 @@
+# absorption-map 条目（IR-0009 卡 A2；schema=IR-0007 §5；ADR-0107 层级声明）
+id: "AM-0022"
+实施层:
+  source: "宪法"
+  anchor: "§14b"
+  quote: "budget: 四元组（usd/tokens/wallclock/human_minutes）+ on_exceed——超限硬停"
+  条目摘要: "成本熔断的波次级形态"
+理论层:
+  source: "DGA"
+  anchor: "§1.3 验证经济学 + MIG 风险表"
+映射关系: "同构"
+参数差异: null
+冲突裁决: null
+证据: 
+  - "run 33245465018 实弹（usd 1.0>0.01）"
+  - "ADR-0040"
+状态: "mapped"

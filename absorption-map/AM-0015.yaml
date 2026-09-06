@@ -1,0 +1,16 @@
+# absorption-map 条目（IR-0009 卡 A2；schema=IR-0007 §5；ADR-0107 层级声明）
+id: "AM-0015"
+实施层:
+  source: "宪法"
+  anchor: "§5"
+  quote: "域解锁机制：先跑 shadow……连续 ≥50 例一致且零逃逸 → 该域解锁自动合并"
+  条目摘要: "自治晋升以历史证据为依据"
+理论层:
+  source: "DGA"
+  anchor: "§2.3 自治阶梯与晋升"
+映射关系: "同构"
+参数差异: null
+冲突裁决: null
+证据: 
+  - "elevation.yaml 策略表"
+状态: "mapped"

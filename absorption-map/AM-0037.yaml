@@ -1,0 +1,16 @@
+# absorption-map 条目（IR-0009 卡 A2；schema=IR-0007 §5；ADR-0107 层级声明）
+id: "AM-0037"
+实施层:
+  source: "宪法"
+  anchor: "§14c"
+  quote: "判定锚点永不外置：云内网池与 CNB 同为可删除层，删除后判定语义不变"
+  条目摘要: "判定不外置红线"
+理论层:
+  source: "STRAT"
+  anchor: "§3.2 路由红线（判定质量不允许降级）"
+映射关系: "同构"
+参数差异: null
+冲突裁决: null
+证据: 
+  - "cnb-bridge README 判定不外置"
+状态: "mapped"
