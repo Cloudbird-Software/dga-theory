@@ -3,7 +3,7 @@ version: 1
 generated_at: "2026-09-06"
 schema: "IR-0007 §5"
 source_adr: "ADR-0107"
-note: "DGA 人类版 v1.0.1 原文缺件——理论层锚点中 v1.1 新条款（其四/其二·附）以（v1.1 待应用）标注，原文到位后回链校对"
+note: "DGA 人类版 v1.1 已诞生（2026-09-06，FR-009 闭环）——（v1.1 待应用）标注全部解除（AM-0010/AM-0040 回链校对通过；AM-0035 的 v1.1 字样为方法论备忘描述符，非待办）；flag-理论缺 3 条维持（棘轮/dead-man/反退化——v1.1 未新增对应条款，留理论审议）"
 coverage:
   宪法 §0-§14 全部章节非空: true
   by_source:
@@ -28,4 +28,4 @@ flag_splitting:
     - "AM-0009 棘轮（治理指标单调性）"
     - "AM-0018 外部 dead-man 心跳"
     - "AM-0019 反退化设计（owner 独立复算/每周亲手一件）"
-owner_spot_check: "pending（门禁对抗一：抽 5 条 owner 核验——S 点外待办，随收口送审）"
+owner_spot_check: "waived 2026-09-06（owner 指令，ADR-0109 回签附录；agent 自证代替，下轮理论审议恢复抽样）"

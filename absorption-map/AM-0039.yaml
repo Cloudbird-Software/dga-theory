@@ -7,11 +7,11 @@ id: "AM-0039"
   条目摘要: "公开策略 vs 判定资产永不出域"
 理论层:
   source: "STRAT"
-  anchor: "§4.1 三区 + §5.4 许可证矩阵"
+  anchor: "§4.1 三区 + §5.4 许可证矩阵 + DGA §4.3 其二·附（v1.1）"
 映射关系: "冲突已裁决"
 参数差异: null
 冲突裁决: "ADJUDICATION §2（FR-01 三阵地：考卷公开答案密封）"
 证据: 
   - "GitHub ToS D.4 训练权证据"
-  - "ADR-0108 proposed"
+  - "ADR-0108 accepted（2026-09-06，S-7 签署）"
 状态: "mapped"
